@@ -1,5 +1,5 @@
 This project was made to test the calibration of CAMO-S, by analyzing the spectra of known stars over several days to see if there are any dramatic/unexpected deviations in its spectral profile
-The script giving the best results is 'imageplotter6.py', which gives plots of the spectra resembling a blackbody. The folders named spectra with corresponding dates on them contain the PNGs of the spectra.
+The script giving the best results is 'imageplotter6.py' coded in python version 3.12.3, which gives plots of the spectra resembling a blackbody. The folders named spectra with corresponding dates on them contain the PNGs of the spectra.
 
 Here are the steps on how to use the script once this project is copied to your local device:
 
