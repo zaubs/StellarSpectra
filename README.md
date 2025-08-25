@@ -12,6 +12,6 @@ Here are the steps on how to use the script once this project is copied to your 
 6. Close this tab when done, and the following image in the folder will be loaded. Repeat steps 3-5 for the remaining spectra in the folder.
 
    Something that is worth noting is that flatfield correction has not been implimented into this version of the script yet. There are some commented out functions at the bottom that I was playing around with but could not get to work properly.
-   I tried contacting Mike Mazur (WMG, mjmazur@uwo.ca) for help as he is the spectra expert in the group so he could lend a useful hand in this process.
+   I tried contacting Mike Mazur (WMG, mmazur5@uwo.ca) for help as he is the spectra expert in the group so he could lend a useful hand in this process.
 
 If there are any questions or concerns about this version of the code, reach out to me by zaubry@uwo.ca and I can provide any help/guidance you need!
